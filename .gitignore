@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Input
+assignment_1/INPUT/
+
+# OUTPUT
+assignment_1/OUTPUT/
+
+# LD score
+assignment_1/ibg.colorado.edu/
